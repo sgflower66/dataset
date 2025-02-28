@@ -6,7 +6,7 @@ Every row represents an impression and includes the following columns:
 index: A unique identifier for each record.
 userid: the user associated with the exposure.
 item_id: the item being exposed to the user.
-label: [single_domain_clk,single_domain_cart,single_domain_pay,CickAll_OrderAll_OrderE_OrderO]
+label: [single_domain_clk_single_domain_cart_single_domain_pay_CickAll_OrderAll_OrderE_OrderO]
 Feature _c: Additional feature column(s) that capture relevant attributes or contextual information associated with the exposure.
 
 Data Availability Statement:
